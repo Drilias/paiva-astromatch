@@ -1,16 +1,17 @@
-### Projeto Astromach
+#### Projeto Astromach
 
 Reprodução de site de relacionamento
 
-### Tecnologias utilizadas 
+#### Tecnologias utilizadas 
 
--React 
+-React.js
 
 -Axios 
 
--Material UI 
+#### Link
+http://astromacth-project-paiva.surge.sh/
 
-### Funcionalidades 
+#### Funcionalidades 
 
 - Visualização de perfis 
 - Botões de "Curtir" e "Não Curtir" 
